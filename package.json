@@ -23,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zrna/move-cursor.git"
+    "url": "https://github.com:alextomas80/autopilot-cursor.git"
   },
   "engines": {
     "node": "16.x",
     "npm": "8.x"
   },
-  "homepage": "https://github.com/Zrna/move-cursor#readme"
+  "homepage": "https://github.com:alextomas80/autopilot-cursor#readme"
 }
