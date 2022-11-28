@@ -1,0 +1,33 @@
+{
+  "name": "autopilot-cursor",
+  "version": "1.0.0",
+  "description": "Con este script podrás mover de forma automática el cursor del ratón cada intervalo que quieras y durante el tiempo que desees.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mouse",
+    "cursor",
+    "move",
+    "javascript"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "0.6.0"
+  },
+  "bin": {
+    "autopilot-cursor": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zrna/move-cursor.git"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "homepage": "https://github.com/Zrna/move-cursor#readme"
+}
