@@ -1,4 +1,4 @@
-# Cursor Autopilot  ↖️🖱️
+# Cursor Autopilot  ↖️🐁
 
 A script that moves your cursor automatically.
 
@@ -34,6 +34,6 @@ npx autopilot-cursor 90
 
 Any value can be added when running the script, e.g.:
 
-`autopilot-cursor` → moves the cursor every `3 min` for `90 minutes`
-`autopilot-cursor 60` → moves the cursor every `3 sec` for `60 minutes`
-`autopilot-cursor 30 5` → moves the cursor every `5 min` for `30 minutes`
+- `autopilot-cursor` → moves the cursor every `3 min` for `90 minutes`
+- `autopilot-cursor 60` → moves the cursor every `3 sec` for `60 minutes`
+- `autopilot-cursor 30 5` → moves the cursor every `5 min` for `30 minutes`
