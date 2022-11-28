@@ -1,4 +1,4 @@
-# Cursor Autopilot  ↖️🐁
+# Cursor Autopilot  ↖️ 🐁
 
 A script that moves your cursor automatically.
 
